@@ -27,7 +27,7 @@ $ docker build -t hw-app .
 ```
 ## Run the container
 ```
-$ docker run -it -d -p 5000:5000 hw-app .
+$ docker run -it -d -p 5000:5000 hw-app
 ```
 Now visit http://localhost:5000
 
