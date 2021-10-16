@@ -17,7 +17,7 @@ python main.py
 
 You can then access MyBitcoin here: http://127.0.0.1:5000/
 
-<img width="1042" alt="MyBitcoin-screenshot" src="https://imgur.com/moYQMm2.png">
+<img width="1042" alt="MyBitcoin-screenshot" src="https://imgur.com/8cK9zPu.png">
 
 ## Build application using docker
 
